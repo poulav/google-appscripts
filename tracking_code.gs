@@ -111,6 +111,10 @@ function EvaluateMKChannelWithDSA(sou,med,cam,cta) {
     return "Quora Ads";
     break;
 
+    case "directnone":
+    return "Others";
+    break;
+
     case "coachfoundation-com.cdn.ampproject.orgreferral":
     return "SEO";
     break;
@@ -124,4 +128,3 @@ function EvaluateMKChannelWithDSA(sou,med,cam,cta) {
     break;
   }
 }
-
