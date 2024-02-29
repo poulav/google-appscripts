@@ -112,7 +112,7 @@ function EvaluateMKChannelWithDSA(sou,med,cam,cta) {
     break;
 
     case "directnone":
-    return "Others";
+    return "Other";
     break;
 
     case "coachfoundation-com.cdn.ampproject.orgreferral":
